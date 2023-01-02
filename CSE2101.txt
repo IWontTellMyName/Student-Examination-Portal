@@ -1,0 +1,12 @@
+Student Name : Adarsh Kumar
+Student ID : CSE2101
+Batch ID : CSE21
+Roll Number : 1
++--------------------+------------+-------+-----------+
+|       Course       | Percentage | Grade | Pass/Fail |
++--------------------+------------+-------+-----------+
+| Python Programming |    93%     |   A   |   Passed  |
+|      Physics       |    90%     |   A   |   Passed  |
++--------------------+------------+-------+-----------+
+
+Overall Passed
